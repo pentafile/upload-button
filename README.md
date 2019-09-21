@@ -1,2 +1,2 @@
 # upload-button
-Webcomponet for file uploading to Pentafile's cloud
+A web easy to use webcomponent that will allow to upload files to the pentafile's platform.
