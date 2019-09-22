@@ -1,0 +1,26 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "./build",
+	"allowJs": true,
+    "target": "es2017",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "experimentalDecorators": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ],
+  "typedocOptions": {
+      "mode": "modules",
+      "out": "docs"
+  }
+}

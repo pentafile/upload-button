@@ -1,0 +1,32 @@
+{
+  "name": "upload-button",
+  "version": "1.0.0",
+  "description": "A web easy to use webcomponent that will allow to upload files to the pentafile's platform.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test",
+    "start": "polymer serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pentafile/upload-button.git"
+  },
+  "keywords": [
+    "upload",
+    "button",
+    "webcomponent"
+  ],
+  "author": "Jaime Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pentafile/upload-button/issues"
+  },
+  "homepage": "https://github.com/pentafile/upload-button#readme",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.3.0",
+    "typedoc": "^0.15.0"
+  }
+}
